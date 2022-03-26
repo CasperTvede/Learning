@@ -14,4 +14,4 @@ Requirements:
 
 This hands-on assignment will test if your able to setup basic device config, client config and static routing. Please refer to below topology to get a idea about the assignment.
 
-![Topology]("Network\Cisco PacketTracer\01. Novice\Basic Static Routing\Topology.PNG")
+![Topology](Network/Cisco%20PacketTracer/01.%20Novice/Basic%20Static%20Routing/Topology.PNG)
