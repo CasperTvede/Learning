@@ -6,9 +6,9 @@ Repo to store learning material mainly for network and server infrastructure
 
 Main tools used for training is based on solutions from Cisco, Microsoft and Opensource 
 
-Folder structure contain the specific subjects and have relevant training material like guides, tests, handson assignments
+Folder structure contain the specific subjects and have relevant training material like guides, tests, hands-on assignments
 
-Prerequisites will be mentioned on each sub part of this repo in related "README.md" to define whats needed to complete the training materials
+Prerequisites will be mentioned on each sub part of this repo in related "README.md" to define what's needed to complete the training materials
 
 * All tested and production ready material is located in _main branch_
 
