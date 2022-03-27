@@ -16,10 +16,10 @@ You will in this assignment need to create an IP plan to cover the company's nee
 
 | Site | Department | Devices | Comment |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Denmark (640) | HR | 22 |   |
+|   | IT | 20 |   |
+|   | Developers | 50 |   |
+|   | Production Area 1 | 548 | Area 1 consist of 11 production lines  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
