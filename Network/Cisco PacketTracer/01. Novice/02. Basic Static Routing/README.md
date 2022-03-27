@@ -1,4 +1,4 @@
-## Basic Static Routing
+## 02. Basic Static Routing
 
 Skill required: Novice
 
